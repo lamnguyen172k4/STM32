@@ -1,7 +1,8 @@
 Objective:
-1: Send data from STM32 to computer
-2: Read voltage from potentiometer, temperature sensor
-3:Send temperature value out to UART every second
+
+1: Send data from STM32 to computer.
+2: Read voltage from potentiometer, temperature sensor.
+3:Send temperature value out to UART every second.
 
 HARDWARE:
 
